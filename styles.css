@@ -15,5 +15,6 @@ h6 {
 }
 
 #login-button {
-  margin-top: 15px;
+  display: block;
+  margin: 15px auto;
 }
